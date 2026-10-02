@@ -1,0 +1,13 @@
+Create a new skin for the attached JPEGPE mascot.
+
+THEME: [YOUR IDEA]
+
+Preserve the exact face, eye size and placement, pupil highlights, gaze, head shape, mouth, expression, anatomy, body proportions, pose, crop, scale, camera angle and square composition of the reference.
+
+Transform the skin pigment, material and patterns across the entire exposed face and head. Clothing may be redesigned to fit the unchanged body. Add wearable accessories only if they preserve the silhouette and leave the eyes visible. A clearly visible bow tie is mandatory; adapt its color, material and design to the theme.
+
+Show one mascot only. Express the theme through the skin, clothing, accessories and bow tie. Use one solid-color background, with no scenery, gradient, texture or effects. Preserve the polished 2D vector-cartoon style, crisp shapes and controlled black outlines. No photorealism, 3D, added limbs, text, logos or watermarks.
+
+Output one finished image. This is a skin concept, not an issued NFT.
+
+Original reference: https://rada-dao-passport.pages.dev/jpegpe-base.png

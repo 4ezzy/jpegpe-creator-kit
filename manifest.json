@@ -1,0 +1,62 @@
+{
+  "name": "JPEGPE Creator Kit",
+  "version": 1,
+  "edition_date": "2026-09-26",
+  "canonical_character_name": "JPEGPE",
+  "community": "RADA DAO",
+  "official_kit_url": "https://rada-dao-passport.pages.dev/jpegpe/creator-kit/",
+  "approved_public_source_commit": "78e91698e716a83aeaad3558e34953bf45a516cb",
+  "images": [
+    {
+      "file": "JPEGPE-Original-Reference.png",
+      "role": "canonical reference",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "source_url": "https://rada-dao-passport.pages.dev/jpegpe-base.png"
+    },
+    {
+      "file": "JPEGPE-Ceramic-Explorer-Example.png",
+      "role": "reference-based example; skin concept, not an issued NFT",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "source_url": "https://rada-dao-passport.pages.dev/identity/jpegpe-ceramic-explorer.png"
+    }
+  ],
+  "files": [
+    {
+      "file": "JPEGPE-Ceramic-Explorer-Example.png",
+      "bytes": 1573097,
+      "sha256": "8df67dec2abfa1546db70c51f7721cc31990f320416e4c141544386184841c10"
+    },
+    {
+      "file": "JPEGPE-Original-Reference.png",
+      "bytes": 656034,
+      "sha256": "c806a5b711011eb6e1ce448e2c9109b2654c17bcd7413f0e0fd83970a9b63b13"
+    },
+    {
+      "file": "START-HERE-EN.md",
+      "bytes": 2520,
+      "sha256": "9e0dbb536ac5793682424235c0527fa1009073a1484f34a268b7c034558fb248"
+    },
+    {
+      "file": "START-HERE-UA.md",
+      "bytes": 3963,
+      "sha256": "8c5371998149cd11edf95dbc5cc6e2de5b665c22e374c5ab0b0c314f1a812aaa"
+    },
+    {
+      "file": "ceramic-explorer-prompt-en.txt",
+      "bytes": 1192,
+      "sha256": "a355629552e15b290f5f8dc1a18e5b93384153d0b7ecbe1d35da2097b110d223"
+    },
+    {
+      "file": "skin-prompt-en.txt",
+      "bytes": 1071,
+      "sha256": "6198c9e40ddb9a3c792133c21cc8fe340091b27cf60b708265814d9111c7a871"
+    }
+  ],
+  "rights_contact": "radadaoai@gmail.com"
+}
