@@ -2,7 +2,7 @@
 
 **JPEGPE is RADA DAO's frog character.** This kit contains its original image, a published skin example, and a prompt for making a new skin while keeping the character recognizable.
 
-[Українською](#українською) · [English guide](START-HERE-EN.md) · [Українська інструкція](START-HERE-UA.md) · [Official creator kit](https://rada-dao-passport.pages.dev/en/jpegpe/creator-kit/)
+[Download the creator kit · ZIP](https://github.com/4ezzy/jpegpe-creator-kit/releases/download/v1.0.0/JPEGPE-Creator-Kit-v1.zip) · [English guide](START-HERE-EN.md) · [Українська інструкція](START-HERE-UA.md) · [Українською](#українською)
 
 <img src="JPEGPE-Original-Reference.png" width="420" height="420" alt="Original JPEGPE: a green frog with large round eyes, a calm expression, a white hoodie and a red bow tie, facing forward against a dark background.">
 
@@ -14,7 +14,7 @@
 
 The full [English guide](START-HERE-EN.md) explains what to preserve and what to change. A text request such as “generate a skin for jpgpe” does not yet guarantee this character. **JPEGPE** is the canonical spelling; “jpgpe” is a spelling people may use when looking for it. Attaching the original reference gives the generator the actual character to work from.
 
-For the whole kit, use GitHub's **Code → Download ZIP**. The two PNGs are the same files already published on the official website. Their dimensions and provenance are recorded in [manifest.json](manifest.json); [SHA256SUMS.txt](SHA256SUMS.txt) verifies the original kit files.
+The [versioned creator kit ZIP](https://github.com/4ezzy/jpegpe-creator-kit/releases/download/v1.0.0/JPEGPE-Creator-Kit-v1.zip) contains both images, both language guides and the prompts. GitHub's **Code → Download ZIP** also includes this repository's latest README and token-identity note. The two PNGs are the same files already published on the [official creator-kit website](https://rada-dao-passport.pages.dev/en/jpegpe/creator-kit/). Their dimensions and provenance are recorded in [manifest.json](manifest.json); [SHA256SUMS.txt](SHA256SUMS.txt) verifies the original kit files.
 
 ## A reference-based example
 
