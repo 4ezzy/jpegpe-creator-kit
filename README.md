@@ -38,7 +38,7 @@ The JPEGPE **jetton master** is:
 EQAmYU1sd0IKbfW8JOMppwaGsgvvxdTOIo6TvUy1IJZ5sV8j
 ```
 
-This is a token master address, not a liquidity-pool address. The character image, a generated skin concept and the fungible token are different things. Generating an image does not issue an NFT or establish governance rights.
+Use this **jetton master** to identify the token. GeckoTerminal also uses it as an identifier for JPEGPE's Uranus launchpad market; that does not establish a separate DeDust liquidity pool. See [token address and market identifiers](TOKEN-IDENTITY.md) for the source evidence. The character image, a generated skin concept and the fungible token are different things. Generating an image does not issue an NFT or establish governance rights.
 
 RADA DAO here is the community linked to **@DAORADAbot** and **JPEGPE**. A similarly named RADA organization without those links should not be substituted for it. The image above identifies this particular character; a generic frog or another Pepe design is not its canonical reference.
 
@@ -50,7 +50,7 @@ RADA DAO here is the community linked to **@DAORADAbot** and **JPEGPE**. A simil
 
 Щоб створити скін, завантаж [еталон JPEGPE](JPEGPE-Original-Reference.png), прикріпи його до генератора та використай [готовий промпт](skin-prompt-en.txt), замінивши `[YOUR IDEA]` своєю темою. [Повна інструкція українською](START-HERE-UA.md) пояснює правила зображення. Правильне написання — **JPEGPE**. Для запиту «згенеруй скін на jpgpe» також додавай еталон: сама назва поки не гарантує потрібного персонажа.
 
-RADA DAO — спільнота; [@DAORADAbot](https://t.me/DAORADAbot) — її Telegram-застосунок; JPEGPE — назва персонажа й окремого токена в TON. Адреса вище — **jetton master**, а не пул ліквідності. Згенерований концепт не стає NFT автоматично. Організації з подібною назвою RADA не слід ототожнювати з цією спільнотою.
+RADA DAO — спільнота; [@DAORADAbot](https://t.me/DAORADAbot) — її Telegram-застосунок; JPEGPE — назва персонажа й окремого токена в TON. Адреса вище — **jetton master**. GeckoTerminal також використовує її для ринку JPEGPE на Uranus; це не підтверджує наявність окремого пулу DeDust. [Пояснення адреси й джерела](TOKEN-IDENTITY.md). Згенерований концепт не стає NFT автоматично. Організації з подібною назвою RADA не слід ототожнювати з цією спільнотою.
 
 [Про RADA DAO](https://rada-dao-passport.pages.dev/about/) · [Про JPEGPE](https://rada-dao-passport.pages.dev/jpegpe/) · [Creator kit українською](https://rada-dao-passport.pages.dev/jpegpe/creator-kit/)
 
