@@ -1,13 +1,27 @@
-Create a new skin for the attached JPEGPE mascot.
+Create a new, unique skin for JPEGPE using the attached original reference image. Follow these rules strictly.
+
+1. CONSTANTS (Do not change):
+- Face and expression: The large eyes and overall facial features must remain identical to the original.
+- Pose and composition: The position of the head and eyes, camera angle and shoulder-length portrait framing must match the reference exactly.
+
+2. CONTEXTUAL ADAPTATION AND CREATIVE DESIGN:
+- Analyze the idea and adapt the skin:
+  * For a character, anime or pop-culture theme, adapt the frog's skin color and tone to the concept instead of defaulting to the original green. Harmonize the skin with the clothing and overall palette.
+  * For a food or object theme, reinterpret the corresponding textures and surfaces.
+- Anatomical fit of hair and headwear: Hair, hairstyles, hats and caps must fit the rounded head and forehead naturally, following their contours without looking like a pasted-on wig.
+- Clothing and body shape: Fully redesign the clothing, torso silhouette and equipment to suit the concept.
+- Background: Use a clean, solid, single-color background with no gradients or effects.
+
+3. REQUIRED ATTRIBUTE:
+- Bow tie: A clearly visible bow tie is mandatory beneath the chin. Adapt its design, shape and material fully to the new skin's style.
+
+4. TECHNICAL QUALITY:
+- High-quality, detailed 2D/2.5D vector-style illustration with expressive graphic contours and clean lines.
+- Stylized volumetric studio lighting on the character to emphasize shape and materials, with the finish of a collectible art object. Strictly no raw 3D-rendered look or photorealism.
+
+5. TASK:
+Create the skin from the attached reference using the following idea.
 
 THEME: A deep-space ceramic explorer with midnight-blue ceramic skin, gold orbital details, expedition clothing and a light ceramic bow tie
-
-Preserve the exact face, eye size and placement, pupil highlights, gaze, head shape, mouth, expression, anatomy, body proportions, pose, crop, scale, camera angle and square composition of the reference.
-
-Transform the skin pigment, material and patterns across the entire exposed face and head. Clothing may be redesigned to fit the unchanged body. Add wearable accessories only if they preserve the silhouette and leave the eyes visible. A clearly visible bow tie is mandatory; adapt its color, material and design to the theme.
-
-Show one mascot only. Express the theme through the skin, clothing, accessories and bow tie. Use one solid-color background, with no scenery, gradient, texture or effects. Preserve the polished 2D vector-cartoon style, crisp shapes and controlled black outlines. No photorealism, 3D, added limbs, text, logos or watermarks.
-
-Output one finished image. This is a skin concept, not an issued NFT.
 
 Original reference: https://rada-dao-passport.pages.dev/jpegpe-base.png

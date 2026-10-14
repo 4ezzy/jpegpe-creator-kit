@@ -1,11 +1,10 @@
 {
   "name": "JPEGPE Creator Kit",
-  "version": 1,
-  "edition_date": "2026-09-26",
+  "version": 2,
+  "edition_date": "2026-10-14",
   "canonical_character_name": "JPEGPE",
   "community": "RADA DAO",
   "official_kit_url": "https://rada-dao-passport.pages.dev/jpegpe/creator-kit/",
-  "approved_public_source_commit": "78e91698e716a83aeaad3558e34953bf45a516cb",
   "images": [
     {
       "file": "JPEGPE-Original-Reference.png",
@@ -39,24 +38,32 @@
     },
     {
       "file": "START-HERE-EN.md",
-      "bytes": 2520,
-      "sha256": "9e0dbb536ac5793682424235c0527fa1009073a1484f34a268b7c034558fb248"
+      "bytes": 2883,
+      "sha256": "d875cb13ee0bf42f05763adc087e7a4679c79e576ba4e64b453ee34cbaa156b7"
     },
     {
       "file": "START-HERE-UA.md",
-      "bytes": 3963,
-      "sha256": "8c5371998149cd11edf95dbc5cc6e2de5b665c22e374c5ab0b0c314f1a812aaa"
+      "bytes": 4567,
+      "sha256": "b903e075f7f7cc518577e5b97ab8563f038411df9e3d34c2dfd69d3d591d1a64"
     },
     {
       "file": "ceramic-explorer-prompt-en.txt",
-      "bytes": 1192,
-      "sha256": "a355629552e15b290f5f8dc1a18e5b93384153d0b7ecbe1d35da2097b110d223"
+      "bytes": 1915,
+      "sha256": "ce172907d91fb3776beeeebf98724c7cdec3eac3b190253fc7b19f5cbb28a247"
     },
     {
       "file": "skin-prompt-en.txt",
-      "bytes": 1071,
-      "sha256": "6198c9e40ddb9a3c792133c21cc8fe340091b27cf60b708265814d9111c7a871"
+      "bytes": 1794,
+      "sha256": "3f0be3b9ca0c97518d464323a324a0a11a6890ee9ca072d557e6fb9e9663abb5"
+    },
+    {
+      "file": "skin-prompt-uk.txt",
+      "bytes": 3130,
+      "sha256": "dad24faf2ec84cf987950a4e527cd4e8ef09788b78b78765cd5d24fb945a4559"
     }
   ],
-  "rights_contact": "radadaoai@gmail.com"
+  "rights_contact": "radadaoai@gmail.com",
+  "prompt_revision": "2026-10-14",
+  "image_provenance_commit": "78e91698e716a83aeaad3558e34953bf45a516cb",
+  "scope": "Owner art-template revision; no change to NFT issuance, IP license or colour-drop protocol."
 }

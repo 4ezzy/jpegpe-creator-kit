@@ -2,19 +2,21 @@
 
 **JPEGPE is RADA DAO's frog character.** This kit contains its original image, a published skin example, and a prompt for making a new skin while keeping the character recognizable.
 
-[Download the creator kit · ZIP](https://github.com/4ezzy/jpegpe-creator-kit/releases/download/v1.0.0/JPEGPE-Creator-Kit-v1.zip) · [English guide](START-HERE-EN.md) · [Українська інструкція](START-HERE-UA.md) · [Українською](#українською)
+[Download the creator kit · ZIP](https://github.com/4ezzy/jpegpe-creator-kit/releases/download/v2.0.0/JPEGPE-Creator-Kit-v2.zip) · [English guide](START-HERE-EN.md) · [Українська інструкція](START-HERE-UA.md) · [Українською](#українською)
 
 <img src="JPEGPE-Original-Reference.png" width="420" height="420" alt="Original JPEGPE: a green frog with large round eyes, a calm expression, a white hoodie and a red bow tie, facing forward against a dark background.">
+
+Updated 14 October 2026: torso silhouettes can be redesigned; the style is detailed 2D/2.5D with stylized studio lighting. The face, expression and reference composition remain fixed. [English prompt](skin-prompt-en.txt) · [Український промпт](skin-prompt-uk.txt).
 
 ## Make your first skin
 
 1. Save [JPEGPE-Original-Reference.png](JPEGPE-Original-Reference.png) and attach it to your image generator.
 2. Copy [skin-prompt-en.txt](skin-prompt-en.txt), replace `[YOUR IDEA]` with a theme, and send it with the image.
-3. Compare the result with the original. Preserve the face, eyes, expression, proportions, pose, crop and a visible bow tie. Change the skin material, colors, clothing and accessories to express the theme.
+3. Compare the result with the original. Preserve the face, eyes, expression, head placement, pose and shoulder portrait framing and a visible bow tie. Change the skin material, colors, clothing and accessories to express the theme.
 
 The full [English guide](START-HERE-EN.md) explains what to preserve and what to change. A text request such as “generate a skin for jpgpe” does not yet guarantee this character. **JPEGPE** is the canonical spelling; “jpgpe” is a spelling people may use when looking for it. Attaching the original reference gives the generator the actual character to work from.
 
-The [versioned creator kit ZIP](https://github.com/4ezzy/jpegpe-creator-kit/releases/download/v1.0.0/JPEGPE-Creator-Kit-v1.zip) contains both images, both language guides and the prompts. GitHub's **Code → Download ZIP** also includes this repository's latest README and token-identity note. The two PNGs are the same files already published on the [official creator-kit website](https://rada-dao-passport.pages.dev/en/jpegpe/creator-kit/). Their dimensions and provenance are recorded in [manifest.json](manifest.json); [SHA256SUMS.txt](SHA256SUMS.txt) verifies the original kit files.
+The [versioned creator kit ZIP](https://github.com/4ezzy/jpegpe-creator-kit/releases/download/v2.0.0/JPEGPE-Creator-Kit-v2.zip) contains both images, both language guides and the prompts. GitHub's **Code → Download ZIP** also includes this repository's latest README and token-identity note. The two PNGs are the same files already published on the [official creator-kit website](https://rada-dao-passport.pages.dev/en/jpegpe/creator-kit/). Their dimensions and provenance are recorded in [manifest.json](manifest.json); [SHA256SUMS.txt](SHA256SUMS.txt) verifies the original kit files.
 
 ## A reference-based example
 
@@ -46,9 +48,9 @@ RADA DAO here is the community linked to **@DAORADAbot** and **JPEGPE**. A simil
 
 ## Українською
 
-**JPEGPE — персонаж-жабка творчої спільноти RADA DAO.** Оригінал має великі круглі очі, біле худі й червоний метелик. У нових скінах можна змінювати кольори, матеріали, одяг і дизайн метелика, зберігаючи обличчя, пропорції, позу та впізнаваність.
+**JPEGPE — персонаж-жабка творчої спільноти RADA DAO.** Оригінал має великі круглі очі, біле худі й червоний метелик. У нових скінах можна змінювати кольори, матеріали, одяг і дизайн метелика, зберігаючи обличчя, положення голови й очей, позу та композицію портрета по плечі.
 
-Щоб створити скін, завантаж [еталон JPEGPE](JPEGPE-Original-Reference.png), прикріпи його до генератора та використай [готовий промпт](skin-prompt-en.txt), замінивши `[YOUR IDEA]` своєю темою. [Повна інструкція українською](START-HERE-UA.md) пояснює правила зображення. Правильне написання — **JPEGPE**. Для запиту «згенеруй скін на jpgpe» також додавай еталон: сама назва поки не гарантує потрібного персонажа.
+Щоб створити скін, завантаж [еталон JPEGPE](JPEGPE-Original-Reference.png), прикріпи його до генератора та використай [готовий промпт українською](skin-prompt-uk.txt), замінивши `[YOUR IDEA]` своєю темою. [Повна інструкція українською](START-HERE-UA.md) пояснює правила зображення. Правильне написання — **JPEGPE**. Для запиту «згенеруй скін на jpgpe» також додавай еталон: сама назва поки не гарантує потрібного персонажа.
 
 RADA DAO — спільнота; [@DAORADAbot](https://t.me/DAORADAbot) — її Telegram-застосунок; JPEGPE — назва персонажа й окремого токена в TON. Адреса вище — **jetton master**. GeckoTerminal також використовує її для ринку JPEGPE на Uranus; це не підтверджує наявність окремого пулу DeDust. [Пояснення адреси й джерела](TOKEN-IDENTITY.md). Згенерований концепт не стає NFT автоматично. Організації з подібною назвою RADA не слід ототожнювати з цією спільнотою.
 

@@ -1,6 +1,6 @@
 # JPEGPE — skin creator kit
 
-Version 1 · 26 September 2026
+Version 2 · 14 October 2026
 
 JPEGPE is a frog character in RADA DAO's creative ecosystem, with large round eyes and a visible bow tie. The original reference has green skin and a white hoodie; new skins can change these colors and clothes.
 
@@ -17,17 +17,19 @@ The canonical spelling is **JPEGPE**. If you started with “jpgpe”, use JPEGP
 ## Preserve
 
 - Head shape, face, eyes, pupils and their highlights, gaze, mouth and expression.
-- Anatomy, proportions, pose, silhouette, camera angle, crop, scale and square composition.
+- Head and eye positions, pose, camera angle and shoulder portrait framing.
 - A clearly visible bow tie. Headwear must not move or cover the eyes.
-- One character, a crisp 2D illustration, controlled black outlines and a solid-color background.
+- One character and a clean, solid-color background without gradients or effects.
 
 ## Transform
 
-Change the pigment, material and patterns across all exposed skin; clothing and accessories; the bow tie's design, color and material. Express the theme through the character. Do not add scenery, a gradient background, extra limbs, text, logos or watermarks.
+Adapt skin color and tone to character, anime or pop-culture themes; reinterpret textures and surfaces for food or object themes. Fully redesign clothing, torso silhouette and equipment; the bow tie's design, color and material. Express the theme through the character. Do not add scenery, a gradient background, extra limbs, text, logos or watermarks.
+
+Use detailed 2D/2.5D vector-style illustration, clean contours and stylized volumetric studio lighting on the character. Hair and headwear must follow the rounded head and forehead naturally, without a pasted-on wig effect. No photorealism or raw 3D-rendered look.
 
 ## Included example
 
-**JPEGPE-Ceramic-Explorer-Example.png** is an already published reference-based skin concept: midnight-blue ceramic skin, gold details, expedition clothing and a light bow tie. It is not proof of recognition from the name alone and is not an issued NFT. **ceramic-explorer-prompt-en.txt** is a ready variation of the public prompt for that theme; it is not presented as the exact historical prompt that produced the example.
+**JPEGPE-Ceramic-Explorer-Example.png** is an previously published reference-based skin concept, made before this prompt revision: midnight-blue ceramic skin, gold details, expedition clothing and a light bow tie. It is not proof of recognition from the name alone and is not an issued NFT. **ceramic-explorer-prompt-en.txt** is a ready variation of the public prompt for that theme; it is not presented as the exact historical prompt that produced the example.
 
 ## Sources and rights
 
